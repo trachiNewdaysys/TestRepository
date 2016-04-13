@@ -1,0 +1,8 @@
+section{
+    display:block;
+}
+
+section.section-main{
+    border:3px solid #006600;
+    padding:20px;
+}
