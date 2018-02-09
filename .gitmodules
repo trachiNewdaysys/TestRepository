@@ -1,0 +1,3 @@
+[submodule "TestRepositorySub"]
+	path = TestRepositorySub
+	url = https://github.com/trachiNewdaysys/TestRepositorySub.git
