@@ -1,9 +1,0 @@
-[submodule "sub/TestRepositorySub"]
-	path = sub/TestRepositorySub
-	url = https://github.com/trachiNewdaysys/TestRepositorySub.git
-[submodule "TestRepositorySub2"]
-	path = TestRepositorySub2
-	url = https://github.com/trachiNewdaysys/TestRepositorySub.git
-[submodule "TestRepositorySub_2"]
-	path = TestRepositorySub_2
-	url = https://github.com/trachiNewdaysys/TestRepositorySub2.git
